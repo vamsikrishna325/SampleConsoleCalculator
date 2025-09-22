@@ -19,9 +19,3 @@ The calculator uses:
 
 ---
 
-## 🚀 How to Run
-1. Clone this repo or download the source code.
-2. Open a terminal in the project folder.
-3. Compile:
-   ```bash
-   javac Calculator.java
